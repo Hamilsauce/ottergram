@@ -1,0 +1,14 @@
+{
+    "editor.cursorBlinking": "phase",
+    "editor.cursorStyle": "underline",
+    "editor.find.autoFindInSelection": true,
+    "editor.fontFamily": "Source Code Pro medium, 'Source Code Pro', monospace",
+    "workbench.colorTheme": "Flatland Monokai",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.letterSpacing": 0.3,
+    "editor.lineHeight": 19,
+    "editor.mouseWheelZoom": true,
+    "editor.minimap.maxColumn": 45,
+    "editor.fontWeight": "100",
+    "editor.formatOnPaste": true
+}
